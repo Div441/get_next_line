@@ -1,1 +1,3 @@
-A function to read a file line by line
+A function that returns the next line of a file using a changeable buffersize. 
+
+
